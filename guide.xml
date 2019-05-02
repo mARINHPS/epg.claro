@@ -1,0 +1,1430 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Universal Channel">
+    <display-name lang="pt">Universal Channel</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="pt">Warner Channel</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="pt">Sony</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190502010000 -0300" stop="20190502024500 -0300" channel="FOX">
+    <title lang="pt">VT - LDU Quito (EQU) x Flamengo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502024500 -0300" stop="20190502043000 -0300" channel="FOX">
+    <title lang="pt">VT - Rosario Central (ARG) x U. Catolica (CHI)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502043000 -0300" stop="20190502044500 -0300" channel="FOX">
+    <title lang="pt">VT - Atlético MG x Nacional (URU)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502044500 -0300" stop="20190502050000 -0300" channel="FOX">
+    <title lang="pt">VT - Libertad (PAR) x Gremio</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502050000 -0300" stop="20190502051500 -0300" channel="FOX">
+    <title lang="pt">Filler</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502051500 -0300" stop="20190502070000 -0300" channel="FOX">
+    <title lang="pt">VT - Alianza Lima (PER) x Internacional</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502070000 -0300" stop="20190502080000 -0300" channel="FOX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502080000 -0300" stop="20190502081500 -0300" channel="FOX">
+    <title lang="pt">VT - Alianza Lima (PER) x Internacional</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502081500 -0300" stop="20190502083000 -0300" channel="FOX">
+    <title lang="pt">VT - LDU Quito (EQU) x Flamengo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502083000 -0300" stop="20190502090000 -0300" channel="FOX">
+    <title lang="pt">Central Fox Noite</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502090000 -0300" stop="20190502111500 -0300" channel="FOX">
+    <title lang="pt">Bom Dia Fox - Ao Vivo</title>
+    <desc lang="pt">As primeiras notícias do dia do mundo esportivo reunidas em um só lugar(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502111500 -0300" stop="20190502120000 -0300" channel="FOX">
+    <title lang="pt">Central Fox Manhã - Ao Vivo</title>
+    <desc lang="pt">O Central Fox é o principal telejornal do Fox Sports, trazendo a cobertura das notícias do mundo esportivo diariamente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502120000 -0300" stop="20190502124500 -0300" channel="FOX">
+    <title lang="pt">Giro FOX - Ao Vivo</title>
+    <desc lang="pt">Daniela Boaventura recupera as principais discussões e o que de melhor rolou no dia dos canais Fox Sports(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502124500 -0300" stop="20190502153000 -0300" channel="FOX">
+    <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
+    <desc lang="pt">Debate esportivo ao vivo que traz na TV a qualidade e informalidade do rádio(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502153000 -0300" stop="20190502173000 -0300" channel="FOX">
+    <title lang="pt">Tarde Redonda - Ao Vivo</title>
+    <desc lang="pt">Um programa para quem respira futebol. De segunda a sexta, às 15h30, com Abel Neto e Lívia Nepomuceno(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502173000 -0300" stop="20190502200000 -0300" channel="FOX">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+    <desc lang="pt">O(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502200000 -0300" stop="20190502210000 -0300" channel="FOX">
+    <title lang="pt">Central Fox - Ao Vivo</title>
+    <desc lang="pt">O Central Fox é o principal telejornal do Fox Sports, trazendo a cobertura das notícias do mundo esportivo diariamente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502210000 -0300" stop="20190502230000 -0300" channel="FOX">
+    <title lang="pt">Debate Final - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502230000 -0300" stop="20190503011500 -0300" channel="FOX">
+    <title lang="pt">Central Fox Noite - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502011000 -0300" stop="20190502025000 -0300" channel="Sony">
+    <title lang="pt">American Idol</title>
+    <desc lang="pt">Uma das competições musicais mais icônicas da história da televisão, que lançou de Kelly Clarkson a Jennifer Hudson, respectivamente vencedoras do Grammy e do Oscar(n)</desc>
+    <credits>
+      <actor>Ryan Seacrest</actor>
+      <actor>Lionel Richie</actor>
+      <actor>Katy Perry</actor>
+      <actor>Luke Bryan</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S17 E16</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190502025000 -0300" stop="20190502031500 -0300" channel="Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <desc lang="pt">Seus amigos tentam convencer Ted de que ele está sendo(n)</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Carrie Underwood</actor>
+      <actor>David Burtka</actor>
+      <actor>Catherine Reitman</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190502031500 -0300" stop="20190502034000 -0300" channel="Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <desc lang="pt">Robin consulta um guru para ajudá-la a superar os sentimentos de raiva que restaram após o fim do namoro com Barney(n)</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Jennifer Lopez</actor>
+      <actor>Benjamin Koldyke</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S5 E17</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190502034000 -0300" stop="20190502040500 -0300" channel="Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <desc lang="pt">Lily fica furiosa quando Ted traz sua nova namorada para seu aniversário. Ela decide revisar todos os seus álbuns de fotos para mostrar a Ted que ano após ano ele trouxe diversas garotas para o evento(n)</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Laura Prepon</actor>
+      <actor>Gina Comparetto</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190502040500 -0300" stop="20190502050000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank</title>
+    <desc lang="pt">O reality show aclamado pela crítica, vencedor do Emmy e que revolucionou o mundo do empreendedorismo nos Estados Unidos está em sua oitava temporada(n)</desc>
+    <credits>
+      <actor>Kevin O'leary</actor>
+      <actor>Barbara Corcoran</actor>
+      <actor>Daymond John</actor>
+      <actor>Robert Herjavec</actor>
+      <actor>Mark Cuban</actor>
+      <actor>Lori Greiner</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S8 E19</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502050000 -0300" stop="20190502060000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank</title>
+    <desc lang="pt">O reality show aclamado pela crítica, vencedor do Emmy e que revolucionou o mundo do empreendedorismo nos Estados Unidos está em sua oitava temporada(n)</desc>
+    <credits>
+      <actor>Kevin O'leary</actor>
+      <actor>Barbara Corcoran</actor>
+      <actor>Daymond John</actor>
+      <actor>Robert Herjavec</actor>
+      <actor>Mark Cuban</actor>
+      <actor>Lori Greiner</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S8 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502060000 -0300" stop="20190502063000 -0300" channel="Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E26</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502063000 -0300" stop="20190502070000 -0300" channel="Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
+    <episode-num system="onscreen">S2 E67</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502070000 -0300" stop="20190502073000 -0300" channel="Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <desc lang="pt">O assalto sofrido por Marshall faz Lily pensar que uma arma poderia resolver as preocupações do casal quanto à segurança - e ela tenta impedi-la de comprar um revólver(n)</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Collette Wolfe</actor>
+      <actor>Collin Christopher</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S5 E19</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190502073000 -0300" stop="20190502075500 -0300" channel="Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <desc lang="pt">Ted tem repulsa da maneira como o noivo de sua mãe fala dela, e a proximidade do casamento dos dois o impele a tomar uma atitude drástica(n)</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Cristine Rose</actor>
+      <actor>Harry Groener</actor>
+      <actor>Suzie Plakson</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S5 E20</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190502075500 -0300" stop="20190502082000 -0300" channel="Sony">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">Dre e Bow têm brigado mais do que de costume, e eles decidem voltar para a terapia(n)</desc>
+    <credits>
+      <director>Tracee Ellis Ross</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+      <actor>Marsai Martin</actor>
+      <actor>Peter Mackenzie</actor>
+      <actor>Deon Cole</actor>
+      <actor>Jenifer Lewis</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502082000 -0300" stop="20190502084500 -0300" channel="Sony">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">As tensões estão elevadas entre Dre e Bow quando o construtor chega para reformar a cozinha, e percebem que eles se distanciaram(n)</desc>
+    <credits>
+      <director>Jonathan Groff</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+      <actor>Marsai Martin</actor>
+      <actor>Peter Mackenzie</actor>
+      <actor>Deon Cole</actor>
+      <actor>Jenifer Lewis</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E21</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502084500 -0300" stop="20190502102500 -0300" channel="Sony">
+    <title lang="pt">The Voice</title>
+    <desc lang="pt">O reality musical(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S16 E12</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190502102500 -0300" stop="20190502112000 -0300" channel="Sony">
+    <title lang="pt">The Voice</title>
+    <desc lang="pt">O reality musical(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S16 E13</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190502112000 -0300" stop="20190502130000 -0300" channel="Sony">
+    <title lang="pt">The Voice</title>
+    <desc lang="pt">O reality musical(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S16 E14</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190502130000 -0300" stop="20190502135500 -0300" channel="Sony">
+    <title lang="pt">The Voice</title>
+    <desc lang="pt">O reality musical(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S16 E15</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190502135500 -0300" stop="20190502142000 -0300" channel="Sony">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">Dre e Bow tentam(n)</desc>
+    <credits>
+      <director>Gail Lerner</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+      <actor>Marsai Martin</actor>
+      <actor>Peter Mackenzie</actor>
+      <actor>Deon Cole</actor>
+      <actor>Jenifer Lewis</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E22</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502142000 -0300" stop="20190502151500 -0300" channel="Sony">
+    <title lang="pt">Shark Tank</title>
+    <desc lang="pt">O reality show aclamado pela crítica, vencedor do Emmy e que revolucionou o mundo do empreendedorismo nos Estados Unidos está em sua oitava temporada(n)</desc>
+    <credits>
+      <actor>Kevin O'leary</actor>
+      <actor>Barbara Corcoran</actor>
+      <actor>Daymond John</actor>
+      <actor>Robert Herjavec</actor>
+      <actor>Mark Cuban</actor>
+      <actor>Lori Greiner</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S8 E21</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502151500 -0300" stop="20190502161000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank</title>
+    <desc lang="pt">O reality show aclamado pela crítica, vencedor do Emmy e que revolucionou o mundo do empreendedorismo nos Estados Unidos está em sua oitava temporada(n)</desc>
+    <credits>
+      <actor>Kevin O'leary</actor>
+      <actor>Barbara Corcoran</actor>
+      <actor>Daymond John</actor>
+      <actor>Robert Herjavec</actor>
+      <actor>Mark Cuban</actor>
+      <actor>Lori Greiner</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S8 E22</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502161000 -0300" stop="20190502164000 -0300" channel="Sony">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">Dre e Bow têm brigado mais do que de costume, e eles decidem voltar para a terapia(n)</desc>
+    <credits>
+      <director>Tracee Ellis Ross</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+      <actor>Marsai Martin</actor>
+      <actor>Peter Mackenzie</actor>
+      <actor>Deon Cole</actor>
+      <actor>Jenifer Lewis</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502164000 -0300" stop="20190502170500 -0300" channel="Sony">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">As tensões estão elevadas entre Dre e Bow quando o construtor chega para reformar a cozinha, e percebem que eles se distanciaram(n)</desc>
+    <credits>
+      <director>Jonathan Groff</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+      <actor>Marsai Martin</actor>
+      <actor>Peter Mackenzie</actor>
+      <actor>Deon Cole</actor>
+      <actor>Jenifer Lewis</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E21</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502170500 -0300" stop="20190502173500 -0300" channel="Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <desc lang="pt">O assalto sofrido por Marshall faz Lily pensar que uma arma poderia resolver as preocupações do casal quanto à segurança - e ela tenta impedi-la de comprar um revólver(n)</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Collette Wolfe</actor>
+      <actor>Collin Christopher</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S5 E19</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190502173500 -0300" stop="20190502180000 -0300" channel="Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <desc lang="pt">Ted tem repulsa da maneira como o noivo de sua mãe fala dela, e a proximidade do casamento dos dois o impele a tomar uma atitude drástica(n)</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Cristine Rose</actor>
+      <actor>Harry Groener</actor>
+      <actor>Suzie Plakson</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S5 E20</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190502180000 -0300" stop="20190502183000 -0300" channel="Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E27</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502183000 -0300" stop="20190502190000 -0300" channel="Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
+    <episode-num system="onscreen">S2 E68</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502190000 -0300" stop="20190502193000 -0300" channel="Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
+    <episode-num system="onscreen">S2 E69</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502193000 -0300" stop="20190502213000 -0300" channel="Sony">
+    <title lang="pt">Zathura - Uma Aventura Espacial</title>
+    <desc lang="pt">Danny e Walter cuidam da irmã mais nova enquanto o pai está fora trabalhando. Juntos os três descobrem, no sótão da casa, um misterioso jogo chamado Zathura. E começa assim uma incrível e imprevisível viagem ao espaço(n)</desc>
+    <credits>
+      <director>Jon Favreau</director>
+      <actor>Josh Hutcherson</actor>
+      <actor>Jonah Bobo</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Kristen Stewart</actor>
+      <actor>Tim Robbins</actor>
+      <actor>Frank Oz</actor>
+      <actor>John Alexander</actor>
+      <actor>Derek Mears</actor>
+      <actor>Douglas Tait</actor>
+      <actor>Joe Bucaro III</actor>
+      <actor>Jeff Wolfe</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502213000 -0300" stop="20190502231000 -0300" channel="Sony">
+    <title lang="pt">The Voice</title>
+    <desc lang="pt">O reality musical(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S16 E16</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190502231000 -0300" stop="20190503011000 -0300" channel="Sony">
+    <title lang="pt">The Voice</title>
+    <desc lang="pt">O reality musical(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S16 E17</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190502002500 -0300" stop="20190502023500 -0300" channel="FX">
+    <title lang="pt">Missão Impossível: Nação Secreta</title>
+    <desc lang="pt">Ethan Hunt descobre que o famoso Sindicato é real, e está tentando destruir o IMF. Mas como combater uma nação secreta, tão treinada e equipada quanto eles mesmos? O agente especial tem que contar com toda a ajuda disponível(n)</desc>
+    <credits>
+      <director>Christopher McQuarrie</director>
+      <actor>Tom Cruise</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Rebecca Ferguson</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Sean Harris</actor>
+      <actor>Simon McBurney</actor>
+      <actor>Jingchu Zhang</actor>
+      <actor>Tom Hollander</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502023500 -0300" stop="20190502030000 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Stan sai em busca de Sergei, um ex-agente da KGB, e fica chocado ao descobrir que ele é seu novo vizinho de porta e que já converteu Steve ao comunismo(n)</desc>
+    <credits>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+    </credits>
+    <date>2008</date>
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502030000 -0300" stop="20190502032500 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Ao saber que Rush Limbaugh (convidado para interpretar ele mesmo) estará no shopping center de Quahog para uma sessão de autógrafos de seu livro, ele resolve ir até lá para mostrar um pouco de sua mentalidade esquerdista(n)</desc>
+    <credits>
+      <director>John Holmquist</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Rainn Wilson</actor>
+    </credits>
+    <episode-num system="onscreen">S10 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502032500 -0300" stop="20190502035000 -0300" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">As crianças exploram uma fábrica de doces abandonada em busca de algum tesouro, mas acabam fazendo isso no dia da sua demolição. Bob e Linda precisam resgatar as crianças antes que seja tarde demais(n)</desc>
+    <credits>
+      <director>Boo Hwan Lim</director>
+      <director>Kyoung Hee Lim</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190502035000 -0300" stop="20190502052500 -0300" channel="FX">
+    <title lang="pt">Cercados pelo Medo</title>
+    <desc lang="pt">Na esperança de reestabelecer seu problemático casamento, Lydia e Creighton se aventuram a uma remota ilha na ensolarada Bahamas. Durante uma noite de muita bebedeira, eles retornam à sua cabana para encontrá-la saqueada(n)</desc>
+    <credits>
+      <director>Shane Dax Taylor</director>
+      <actor>Dominic Purcell</actor>
+      <actor>Luke Mably</actor>
+      <actor>Marie Avgeropoulos</actor>
+      <actor>Claudia Church</actor>
+      <actor>Tricia Helfer</actor>
+      <actor>Chelsea Edmundson</actor>
+      <actor>Stephen Lang</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190502052500 -0300" stop="20190502070000 -0300" channel="FX">
+    <title lang="pt">Pronto Socorro</title>
+    <desc lang="pt">Um homem armado força um paramédico para conduzir uma ambulância , enquanto seu parceiro trata irmão ferido do homem(n)</desc>
+    <credits>
+      <director>Philippe Gagnon</director>
+      <actor>Dania Ramirez</actor>
+      <actor>Kristopher Turner</actor>
+      <actor>Joris Jarsky</actor>
+      <actor>Adam Butcher</actor>
+      <actor>Graham Abbey</actor>
+      <actor>Jefferson Brown</actor>
+      <actor>Owain Thomas</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502070000 -0300" stop="20190502073000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502073000 -0300" stop="20190502080000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502080000 -0300" stop="20190502083000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502083000 -0300" stop="20190502090000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502090000 -0300" stop="20190502100000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502100000 -0300" stop="20190502122000 -0300" channel="FX">
+    <title lang="pt">Ilha do Medo</title>
+    <desc lang="pt">O detetive Teddy Daniels investiga o desaparecimento de uma paciente do Shutter Island Ashecliffe Hospital, em Boston. Ele suspeita de um plano dos médicos com tratamentos sinistros(n)</desc>
+    <credits>
+      <director>Martin Scorsese</director>
+      <actor>Leonardo DiCaprio</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Ben Kingsley</actor>
+      <actor>Max von Sydow</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Emily Mortimer</actor>
+      <actor>Patricia Clarkson</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190502122000 -0300" stop="20190502124500 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Em busca de dinheiro extra, Roger começa a distribuir fotos suas para a mídia local, levando a CIA iniciar uma Força-Tarefa Alienígena(n)</desc>
+    <credits>
+      <director>Brent Woods</director>
+      <actor>Vozes de Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mike Barker</actor>
+      <actor>Caroline Aaron</actor>
+      <actor>Curtis Armstrong</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502124500 -0300" stop="20190502131500 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Declarado oficialmente morto após um acidente envolvendo um caminhão de doces, Stan volta à vida para concretizar seu sonho de deixar um legado para o mundo e começa uma escavação em sua casa para encontrar o tesouro enterrado(n)</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <actor>Vozes de Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mike Barker</actor>
+      <actor>Gisa Vatcky</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502131500 -0300" stop="20190502134000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Vários suspeitos continuam sendo apontados pelos assassinatos enquanto aumenta o número de mortos(n)</desc>
+    <credits>
+      <director>Dominic Polcino</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+    </credits>
+    <episode-num system="onscreen">S10 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502134000 -0300" stop="20190502140500 -0300" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Bob fica viciado em um antigo fliperama sobre virar hambúrgueres, depois de Jimmy Pesto bater o recorde de pontos(n)</desc>
+    <credits>
+      <director>Jennifer Coyle</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190502140500 -0300" stop="20190502160000 -0300" channel="FX">
+    <title lang="pt">Caçador de Recompensas</title>
+    <desc lang="pt">Milo, um caçador de recompensas que está na pior, consegue o trabalho dos seus sonhos quando é designado a capturar sua fugitiva ex-mulher, a repórter Nicole(n)</desc>
+    <credits>
+      <director>Andy Tennant</director>
+      <actor>Gerard Butler</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Gio Perez</actor>
+      <actor>Joel Garland</actor>
+      <actor>Jason Kolotouros</actor>
+      <actor>Matt Malloy</actor>
+      <actor>Jason Sudeikis</actor>
+      <actor>Adam Rose</actor>
+      <actor>Christine Baranski</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502160000 -0300" stop="20190502181000 -0300" channel="FX">
+    <title lang="pt">Missão Impossível: Nação Secreta</title>
+    <desc lang="pt">Ethan Hunt descobre que o famoso Sindicato é real, e está tentando destruir o IMF. Mas como combater uma nação secreta, tão treinada e equipada quanto eles mesmos? O agente especial tem que contar com toda a ajuda disponível(n)</desc>
+    <credits>
+      <director>Christopher McQuarrie</director>
+      <actor>Tom Cruise</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Rebecca Ferguson</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Sean Harris</actor>
+      <actor>Simon McBurney</actor>
+      <actor>Jingchu Zhang</actor>
+      <actor>Tom Hollander</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502181000 -0300" stop="20190502201000 -0300" channel="FX">
+    <title lang="pt">Em Nome da Lei</title>
+    <desc lang="pt">Vitor é um juiz federal recém-chegado na cidade de Fronteira, disposto a desmontar um esquema de contrabando e tráfico de drogas na região(n)</desc>
+    <credits>
+      <director>Sergio Rezende</director>
+      <actor>Mateus Solano</actor>
+      <actor>Paolla Oliveira</actor>
+      <actor>Chico Díaz</actor>
+      <actor>Eduardo Galvão</actor>
+      <actor>Roberto Berindelli</actor>
+      <actor>Emilio Dantas</actor>
+      <actor>Silvio Guindane</actor>
+      <actor>Juliana Lohmann</actor>
+      <actor>Gustavo Nader</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502201000 -0300" stop="20190502220000 -0300" channel="FX">
+    <title lang="pt">Um Tira da Pesada</title>
+    <desc lang="pt">Policial presencia o assassinato de um amigo. Ele vai às ruas de Beverly Hills, onde através de situações aloucadas e hilariantes mostrará a face oculta da opulência e da boa vida(n)</desc>
+    <credits>
+      <director>Martin Brest</director>
+      <actor>Eddie Murphy</actor>
+      <actor>Judge Reinhold</actor>
+      <actor>Lisa Eilbacher</actor>
+      <actor>John Ashton</actor>
+      <actor>Ronny Cox</actor>
+      <actor>Steven Berkoff</actor>
+      <actor>James Russo</actor>
+      <actor>Jonathan Banks</actor>
+      <actor>Stephen Elliott</actor>
+      <actor>Gilbert R. Hill</actor>
+      <actor>Paul Reiser</actor>
+      <actor>Joel Bailey</actor>
+    </credits>
+    <date>1984</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190502220000 -0300" stop="20190502234500 -0300" channel="FX">
+    <title lang="pt">Vovó...Zona 2</title>
+    <desc lang="pt">O detetive do FBI, Malcolm Turner, precisa mais uma vez se disfarçar. Desta vez ele está atrás do suspeito de espalhar vírus de computador, letal, que permite que inimigos do governo tenham acesso a arquivos confidenciais(n)</desc>
+    <credits>
+      <director>John Whitesell</director>
+      <actor>Martin Lawrence</actor>
+      <actor>Emily Procter</actor>
+      <actor>Mark Moses</actor>
+      <actor>Nia Long</actor>
+      <actor>Zachary Levi</actor>
+      <actor>Kat Dennings</actor>
+      <actor>Cloe Moretz</actor>
+      <actor>Marisol Nichols</actor>
+      <actor>Josh Flitter</actor>
+      <actor>Jascha Washington</actor>
+      <actor>Sarah Brown</actor>
+      <actor>Rodha Griffis</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190502234500 -0300" stop="20190503002500 -0300" channel="FX">
+    <title lang="pt">Minha Super Ex-Namorada</title>
+    <desc lang="pt">Matt fica encantado ao descobrir que a namorada é G-Girl, uma sexy super-heroína. Ele só não imaginava que ela iria usar seus poderes para perseguí-lo e agir de forma obsessiva. Irritado, ele termina o relacionamento(n)</desc>
+    <credits>
+      <director>Ivan Reitman</director>
+      <actor>Uma Thurman</actor>
+      <actor>Luke Wilson</actor>
+      <actor>Anna Faris</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>Eddie Izzard</actor>
+      <actor>Stelio Savante</actor>
+      <actor>Mike Iorio</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>Wanda Sykes</actor>
+      <actor>Margaret Anne Florence</actor>
+      <actor>Tara Thompson</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190502004500 -0300" stop="20190502014000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles: Sacrifício</title>
+    <desc lang="pt">Uma chamada da Polícia de Los Angeles vai colocar os rapazes do NCIS em ação nas ruas, a fim de determinar a ligação de um cartel de drogas mexicano com um terrorista perigoso(n)</desc>
+    <credits>
+      <director>John Peter Kousakis</director>
+      <actor>Chris O'Donnell</actor>
+      <actor>Ll Cool J</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>America Olivo</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502014000 -0300" stop="20190502023500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Vítimas com vários seguidores nas mídias sociais são encontrados mortos em Maryland, o que leva a equipe a investigar uma lenda urbana da internet. Morgan e Savannah não conseguem passar tempo juntos por causa das carreiras(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Vivian Kerr</actor>
+      <actor>Blair Dickens</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Harrison Holzer</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S10 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502023500 -0300" stop="20190502033000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">O primeiro encontro de McGarrett com Lynn em uma ilha deserta se torna mortal quando um chefão da máfia, que se esconde por lá, os persegue a fim de manter sua localização em segredo(n)</desc>
+    <credits>
+      <director>Hanelle M. Culpepper</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502033000 -0300" stop="20190502042500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">O time deve trabalhar ao lado do charmoso golpista, Hank Weber, a fim de encontrar um assassino após a parceira de Weber ter sido morta em um trabalho(n)</desc>
+    <credits>
+      <director>Joel Surnow</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502042500 -0300" stop="20190502051500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">O time Five-0 volta à escola quando um professor é assassinado e Danny trabalha disfarçado como seu substituto a fim de investigar o caso(n)</desc>
+    <credits>
+      <director>Bobby Roth</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S6 E9</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502051500 -0300" stop="20190502060000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">O irmão de um boxeador promissor local é assassinado e o chefe suspeita que o culpado é um oponente campeão que vive no continente(n)</desc>
+    <credits>
+      <director>Bryan Spicer</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S6 E10</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502060000 -0300" stop="20190502070000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Grissom, Sara e Nick investigam um caso de eletrocussão em um cassino. O cassino está atualmente expondo valiosas antiguidades japonesas(n)</desc>
+    <credits>
+      <director>Danny Cannon</director>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Danny Huston</actor>
+      <actor>Sherman Augustus</actor>
+    </credits>
+    <date>2004</date>
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190502070000 -0300" stop="20190502080000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Um assalto em uma mercearia acaba em tiroteio e 5 pessoas são mortas. O policial que estava na cena do crime acredita que Grissom tem alguma coisa contra ele e a equipe inteira trabalha para coletar mais evidências(n)</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>David Andrews</actor>
+      <actor>Jamie Anne Allmaan</actor>
+      <actor>Tim Kelleher</actor>
+    </credits>
+    <date>2004</date>
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190502080000 -0300" stop="20190502090000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Toda a equipe deverá investigar um crime onde um marido e sua esposa que é uma estrela dos filmes pornôs são assassinados(n)</desc>
+    <credits>
+      <director>Duane Clark</director>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Nicholas Lea</actor>
+      <actor>Kat Dennings</actor>
+    </credits>
+    <date>2004</date>
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190502090000 -0300" stop="20190502100000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Um homem bem vestido dirigindo um carro de luxo é morto em um bairro perigoso da cidade, mas o roubo, aparentemente, não tem um motivo concreto(n)</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Paul Dooley</actor>
+    </credits>
+    <date>2004</date>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190502100000 -0300" stop="20190502110000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Quando um braço é encontrado debaixo de um ônibus, a equipe CSI é chamada para investigar o que aconteceu(n)</desc>
+    <credits>
+      <director>Deran Sarafian</director>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Gina Torres</actor>
+    </credits>
+    <date>2004</date>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190502110000 -0300" stop="20190502115500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">A equipe ajuda a CIA a procurar um assassino na ilha. Enquanto isso, Kono foge quando é acusada de um crime que não cometeu(n)</desc>
+    <credits>
+      <director>Bryan Spicer</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>William Baldwin</actor>
+      <actor>Michelle Borth</actor>
+      <actor>Mark Dacascos</actor>
+      <actor>Dennis Chun</actor>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S3 E24</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502115500 -0300" stop="20190502125000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Um advogado de destaque desaparece em Boston e a investigação revela segredos do seu passado que podem apontar para a razão de seu sumiço(n)</desc>
+    <credits>
+      <director>Laura Belsey</director>
+      <actor>Joe Mantegna</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Evan Gamble</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S10 E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502125000 -0300" stop="20190502134500 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">A equipe do CSI investiga um novo caso quando um carrinho de uma montanha-russa sai dos trilhos matando seis pessoas. Eles tentam determinar se foi um simples acidente ou uma tentativa de assassinato(n)</desc>
+    <credits>
+      <director>Deran Sarafian</director>
+      <actor>Jorja Fox</actor>
+      <actor>George Eads</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Rober David Hall</actor>
+      <actor>Ron Dean</actor>
+      <actor>J Barton</actor>
+      <actor>James Patrick Stuart</actor>
+    </credits>
+    <date>2004</date>
+    <episode-num system="onscreen">S4 E21</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190502134500 -0300" stop="20190502144000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">McGarrett e Danny recrutam Tani Rey para se juntar à força-tarefa quando o diabólico hacker Aaron Wright solta um perigoso incendiário da prisão(n)</desc>
+    <credits>
+      <director>Eagle Egilsson</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502144000 -0300" stop="20190502153500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Quando o corpo de um comandante da Marinha é encontrado, Gibbs e sua equipe recebem a ordem de trabalhar com um antigo agente do FBI, Tobias Fornell, um investigador particular que foi contratado para encontrá-lo(n)</desc>
+    <credits>
+      <director>Mark Horowitz</director>
+      <actor>Mark Harmon</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Emily Wickersham</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S15 E14</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190502153500 -0300" stop="20190502163000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles: Lobo Solitário</title>
+    <desc lang="pt">O assassinato de um ex-agente de inteligência naval abre as portas de um caso interessante e delicado: os membros do NCIS terão que investigar por que o oficial viajava a diferentes partes do mundo, e com um passaporte falso(n)</desc>
+    <credits>
+      <director>James Whitmore Jr</director>
+      <actor>Chris O'Donnell</actor>
+      <actor>Ll Cool J</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Scott Paulin</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502163000 -0300" stop="20190502172500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">A equipe ajuda a CIA a procurar um assassino na ilha. Enquanto isso, Kono foge quando é acusada de um crime que não cometeu(n)</desc>
+    <credits>
+      <director>Bryan Spicer</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>William Baldwin</actor>
+      <actor>Michelle Borth</actor>
+      <actor>Mark Dacascos</actor>
+      <actor>Dennis Chun</actor>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S3 E24</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502172500 -0300" stop="20190502182000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">A equipe do CSI investiga um novo caso quando um carrinho de uma montanha-russa sai dos trilhos matando seis pessoas. Eles tentam determinar se foi um simples acidente ou uma tentativa de assassinato(n)</desc>
+    <credits>
+      <director>Deran Sarafian</director>
+      <actor>Jorja Fox</actor>
+      <actor>George Eads</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Rober David Hall</actor>
+      <actor>Ron Dean</actor>
+      <actor>J Barton</actor>
+      <actor>James Patrick Stuart</actor>
+    </credits>
+    <date>2004</date>
+    <episode-num system="onscreen">S4 E21</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190502182000 -0300" stop="20190502191500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Quando o corpo de um comandante da Marinha é encontrado, Gibbs e sua equipe recebem a ordem de trabalhar com um antigo agente do FBI, Tobias Fornell, um investigador particular que foi contratado para encontrá-lo(n)</desc>
+    <credits>
+      <director>Mark Horowitz</director>
+      <actor>Mark Harmon</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Emily Wickersham</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S15 E14</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190502191500 -0300" stop="20190502201000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles: Lobo Solitário</title>
+    <desc lang="pt">O assassinato de um ex-agente de inteligência naval abre as portas de um caso interessante e delicado: os membros do NCIS terão que investigar por que o oficial viajava a diferentes partes do mundo, e com um passaporte falso(n)</desc>
+    <credits>
+      <director>James Whitmore Jr</director>
+      <actor>Chris O'Donnell</actor>
+      <actor>Ll Cool J</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Scott Paulin</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502201000 -0300" stop="20190502210500 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">A equipe do CSI investiga um novo caso quando um carrinho de uma montanha-russa sai dos trilhos matando seis pessoas. Eles tentam determinar se foi um simples acidente ou uma tentativa de assassinato(n)</desc>
+    <credits>
+      <director>Deran Sarafian</director>
+      <actor>Jorja Fox</actor>
+      <actor>George Eads</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Rober David Hall</actor>
+      <actor>Ron Dean</actor>
+      <actor>J Barton</actor>
+      <actor>James Patrick Stuart</actor>
+    </credits>
+    <date>2004</date>
+    <episode-num system="onscreen">S4 E21</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190502210500 -0300" stop="20190502220000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Um advogado de destaque desaparece em Boston e a investigação revela segredos do seu passado que podem apontar para a razão de seu sumiço(n)</desc>
+    <credits>
+      <director>Laura Belsey</director>
+      <actor>Joe Mantegna</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Evan Gamble</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S10 E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502220000 -0300" stop="20190502225500 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Enquanto Red e Dembe contratam Glenn para montar um júri vantajoso para Red em seu próximo julgamento, a Força-Tarefa investiga uma série de misteriosas mortes causadas por insetos(n)</desc>
+    <credits>
+      <director>Kurt Kuenne</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Amir Arison</actor>
+      <actor>Harry Lennix</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502225500 -0300" stop="20190502235000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">A equipe ajuda a CIA a procurar um assassino na ilha. Enquanto isso, Kono foge quando é acusada de um crime que não cometeu(n)</desc>
+    <credits>
+      <director>Bryan Spicer</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>William Baldwin</actor>
+      <actor>Michelle Borth</actor>
+      <actor>Mark Dacascos</actor>
+      <actor>Dennis Chun</actor>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S3 E24</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502235000 -0300" stop="20190503004500 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Enquanto Red e Dembe contratam Glenn para montar um júri vantajoso para Red em seu próximo julgamento, a Força-Tarefa investiga uma série de misteriosas mortes causadas por insetos(n)</desc>
+    <credits>
+      <director>Kurt Kuenne</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Amir Arison</actor>
+      <actor>Harry Lennix</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+</tv>
