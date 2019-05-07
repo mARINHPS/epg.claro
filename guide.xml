@@ -1,8 +1,206 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="FOX">
-    <display-name lang="pt">FOX</display-name>
-    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox.png" />
-    <url>http://www.foxplaybrasil.com.br</url>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
+  <programme start="20190507003800 -0300" stop="20190507012800 -0300" channel="Discovery Channel">
+    <title lang="pt">Cobaia Humana: No Limite do Corpo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507012800 -0300" stop="20190507021700 -0300" channel="Discovery Channel">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507021700 -0300" stop="20190507030300 -0300" channel="Discovery Channel">
+    <title lang="pt">Construções Remotas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507030300 -0300" stop="20190507032700 -0300" channel="Discovery Channel">
+    <title lang="pt">Construções no Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507032700 -0300" stop="20190507035000 -0300" channel="Discovery Channel">
+    <title lang="pt">Construções no Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507035000 -0300" stop="20190507043800 -0300" channel="Discovery Channel">
+    <title lang="pt">Batalha Makers Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507043800 -0300" stop="20190507052600 -0300" channel="Discovery Channel">
+    <title lang="pt">Mad Dog: Mestre dos Metais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507052600 -0300" stop="20190507062100 -0300" channel="Discovery Channel">
+    <title lang="pt">Discovery Atlas: Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507062100 -0300" stop="20190507071000 -0300" channel="Discovery Channel">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507071000 -0300" stop="20190507080000 -0300" channel="Discovery Channel">
+    <title lang="pt">Construções Remotas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507080000 -0300" stop="20190507082500 -0300" channel="Discovery Channel">
+    <title lang="pt">Construções no Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507082500 -0300" stop="20190507085000 -0300" channel="Discovery Channel">
+    <title lang="pt">Construções no Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507085000 -0300" stop="20190507094000 -0300" channel="Discovery Channel">
+    <title lang="pt">Batalha Makers Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507094000 -0300" stop="20190507103000 -0300" channel="Discovery Channel">
+    <title lang="pt">Mad Dog: Mestre dos Metais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507103000 -0300" stop="20190507112000 -0300" channel="Discovery Channel">
+    <title lang="pt">À Prova de Tudo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507112000 -0300" stop="20190507121000 -0300" channel="Discovery Channel">
+    <title lang="pt">Ilhados com Bear Grylls</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507121000 -0300" stop="20190507130000 -0300" channel="Discovery Channel">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507130000 -0300" stop="20190507135000 -0300" channel="Discovery Channel">
+    <title lang="pt">Construções Remotas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507135000 -0300" stop="20190507141500 -0300" channel="Discovery Channel">
+    <title lang="pt">Construções no Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507141500 -0300" stop="20190507144000 -0300" channel="Discovery Channel">
+    <title lang="pt">Construções no Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507144000 -0300" stop="20190507153000 -0300" channel="Discovery Channel">
+    <title lang="pt">Batalha Makers Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507153000 -0300" stop="20190507162000 -0300" channel="Discovery Channel">
+    <title lang="pt">Mad Dog: Mestre dos Metais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507162000 -0300" stop="20190507171000 -0300" channel="Discovery Channel">
+    <title lang="pt">À Prova de Tudo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507171000 -0300" stop="20190507180000 -0300" channel="Discovery Channel">
+    <title lang="pt">Febre do Ouro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507180000 -0300" stop="20190507182500 -0300" channel="Discovery Channel">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507182500 -0300" stop="20190507185000 -0300" channel="Discovery Channel">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507185000 -0300" stop="20190507194000 -0300" channel="Discovery Channel">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507194000 -0300" stop="20190507203000 -0300" channel="Discovery Channel">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507203000 -0300" stop="20190507211400 -0300" channel="Discovery Channel">
+    <title lang="pt">Largados e Pelados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507211400 -0300" stop="20190507220400 -0300" channel="Discovery Channel">
+    <title lang="pt">Largados e Pelados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507220400 -0300" stop="20190507225400 -0300" channel="Discovery Channel">
+    <title lang="pt">Ed Stafford: Contra Todos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507225400 -0300" stop="20190507234600 -0300" channel="Discovery Channel">
+    <title lang="pt">Febre do Ouro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190507234600 -0300" stop="20190508003800 -0300" channel="Discovery Channel">
+    <title lang="pt">Febre do Ouro</title>
+    <sub-title lang="pt">O Desafio de Parker</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
 </tv>
