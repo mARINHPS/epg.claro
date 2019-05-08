@@ -4,6 +4,70 @@
     <display-name lang="pt">Discovery Channel</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNT">
+    <display-name lang="pt">CNT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health">
+    <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Ei Maxx HD">
+    <display-name lang="pt">Ei Maxx HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="pt">TVE</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="pt">H2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="pt">H2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History">
+    <display-name lang="pt">History</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="I-Sat">
+    <display-name lang="pt">I-Sat</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Investigação Discovery">
+    <display-name lang="pt">Investigação Discovery</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Max Prime">
+    <display-name lang="pt">Max Prime</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record">
+    <display-name lang="pt">Record</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TruTV">
+    <display-name lang="pt">TruTV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20190508003800 -0300" stop="20190508012800 -0300" channel="Discovery Channel">
     <title lang="pt">Febre do Ouro</title>
     <sub-title lang="pt">O Desafio de Parker</sub-title>
