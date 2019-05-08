@@ -8,6 +8,26 @@
     <display-name lang="pt">A&amp;E</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="RECORD">
+    <display-name lang="pt">RECORD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND NEWS***">
+    <display-name lang="pt">BAND NEWS***</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20190506221500 -0300" stop="20190506234500 -0300" channel="SBT SP INTERIOR***">
+    <title lang="pt">Programa do Ratinho</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
   <channel id="CNT">
     <display-name lang="pt">CNT</display-name>
     <url>http://www.meuguia.tv</url>
