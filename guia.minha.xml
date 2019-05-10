@@ -1,0 +1,1986 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV Brasil">
+    <display-name lang="pt">TV Brasil</display-name>
+    <icon src="http://www.tvmagazine.com.br/imagens/icones/150/tvbrasil.png" />
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Câmara">
+    <display-name lang="pt">TV Câmara</display-name>
+    <icon src="http://www.tvmagazine.com.br/imagens/icones/150/tvcamara.png" />
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Senado">
+    <display-name lang="pt">TV Senado</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Justiça">
+    <display-name lang="pt">TV Justiça</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Escola">
+    <display-name lang="pt">TV Escola</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Cultura">
+    <display-name lang="pt">TV Cultura</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SBT SP">
+    <display-name lang="pt">SBT SP</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Globo SP">
+    <display-name lang="pt">Globo SP</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Record SP">
+    <display-name lang="pt">Record SP</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Rede TV!">
+    <display-name lang="pt">Rede TV!</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Gazeta">
+    <display-name lang="pt">TV Gazeta</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Mega TV">
+    <display-name lang="pt">Mega TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Canal 21">
+    <display-name lang="pt">Canal 21</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Ideal TV">
+    <display-name lang="pt">Ideal TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Chef TV">
+    <display-name lang="pt">Chef TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Mix TV">
+    <display-name lang="pt">Mix TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Polishop TV">
+    <display-name lang="pt">Polishop TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Rede Vida">
+    <display-name lang="pt">Rede Vida</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Aparecida">
+    <display-name lang="pt">TV Aparecida</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Canção Nova">
+    <display-name lang="pt">Canção Nova</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="BIS">
+    <display-name lang="pt">BIS</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="OFF">
+    <display-name lang="pt">OFF</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SPORTV 3">
+    <display-name lang="pt">SPORTV 3</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SPORTV 2">
+    <display-name lang="pt">SPORTV 2</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SPORTV">
+    <display-name lang="pt">SPORTV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Globo News">
+    <display-name lang="pt">Globo News</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="GNT">
+    <display-name lang="pt">GNT</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Multishow">
+    <display-name lang="pt">Multishow</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Viva">
+    <display-name lang="pt">Viva</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Mais Globosat">
+    <display-name lang="pt">Mais Globosat</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Gloob">
+    <display-name lang="pt">Gloob</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Rá-Tim-Bum">
+    <display-name lang="pt">TV Rá-Tim-Bum</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pt">Disney Junior</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pt">Disney XD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="pt">Tooncast</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Bem Simples">
+    <display-name lang="pt">Bem Simples</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ESPN+">
+    <display-name lang="pt">ESPN+</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX Sports">
+    <display-name lang="pt">FOX Sports</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX Sports 2">
+    <display-name lang="pt">FOX Sports 2</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Band Sports">
+    <display-name lang="pt">Band Sports</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="WOOHOO">
+    <display-name lang="pt">WOOHOO</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="CNN International">
+    <display-name lang="pt">CNN International</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="pt">Bloomberg</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="BBC World">
+    <display-name lang="pt">BBC World</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="pt">History Channel</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="pt">H2</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="NatGeo">
+    <display-name lang="pt">NatGeo</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="pt">Discovery Turbo</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="pt">Discovery Science</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery Civilization">
+    <display-name lang="pt">Discovery Civilization</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Curta!">
+    <display-name lang="pt">Curta!</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Home &amp; Health">
+    <display-name lang="pt">Home &amp; Health</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX Life">
+    <display-name lang="pt">FOX Life</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="pt">Lifetime</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="pt">E!</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="truTV">
+    <display-name lang="pt">truTV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Glitz*">
+    <display-name lang="pt">Glitz*</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TNT Séries">
+    <display-name lang="pt">TNT Séries</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Play TV">
+    <display-name lang="pt">Play TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FishTV">
+    <display-name lang="pt">FishTV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">MTV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="pt">Warner Channel</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="pt">Sony</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="pt">TBS</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="pt">Space</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="pt">Syfy</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">Studio Universal</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Universal Channel">
+    <display-name lang="pt">Universal Channel</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Canal Brasil">
+    <display-name lang="pt">Canal Brasil</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Investigação Discovery">
+    <display-name lang="pt">Investigação Discovery</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="pt">Paramount Channel</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Film &amp; Arts">
+    <display-name lang="pt">Film &amp; Arts</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Eurochannel">
+    <display-name lang="pt">Eurochannel</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="pt">HBO Plus</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Plus E">
+    <display-name lang="pt">HBO Plus E</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="pt">HBO Signature</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Max Up">
+    <display-name lang="pt">Max Up</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Max">
+    <display-name lang="pt">Max</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Max Prime">
+    <display-name lang="pt">Max Prime</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Max Prime *e">
+    <display-name lang="pt">Max Prime *e</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="NHK">
+    <display-name lang="pt">NHK</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="RAI">
+    <display-name lang="pt">RAI</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Deutsche Welle">
+    <display-name lang="pt">Deutsche Welle</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="RTPi">
+    <display-name lang="pt">RTPi</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ART Latino">
+    <display-name lang="pt">ART Latino</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="pt">TV5 Monde</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV España">
+    <display-name lang="pt">TV España</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 3">
+    <display-name lang="pt">Premiere 3</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 2">
+    <display-name lang="pt">Premiere 2</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes">
+    <display-name lang="pt">Premiere Clubes</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 4">
+    <display-name lang="pt">Premiere 4</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 5">
+    <display-name lang="pt">Premiere 5</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 6">
+    <display-name lang="pt">Premiere 6</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 7">
+    <display-name lang="pt">Premiere 7</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 8 Mosaico">
+    <display-name lang="pt">Premiere 8 Mosaico</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Sexy Hot">
+    <display-name lang="pt">Sexy Hot</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Sex Privé Brasileirinhas">
+    <display-name lang="pt">Sex Privé Brasileirinhas</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SBT SP HD">
+    <display-name lang="pt">SBT SP HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Globo SP HD">
+    <display-name lang="pt">Globo SP HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Rede TV! HD">
+    <display-name lang="pt">Rede TV! HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Band SP HD">
+    <display-name lang="pt">Band SP HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="pt">BIS HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="OFF HD">
+    <display-name lang="pt">OFF HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SPORTV 3 HD">
+    <display-name lang="pt">SPORTV 3 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SPORTV 2 HD">
+    <display-name lang="pt">SPORTV 2 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="SPORTV HD">
+    <display-name lang="pt">SPORTV HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Globo News HD">
+    <display-name lang="pt">Globo News HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="GNT HD">
+    <display-name lang="pt">GNT HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Multishow HD">
+    <display-name lang="pt">Multishow HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Viva HD">
+    <display-name lang="pt">Viva HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Mais Globosat HD">
+    <display-name lang="pt">Mais Globosat HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery Kids HD">
+    <display-name lang="pt">Discovery Kids HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Gloob HD">
+    <display-name lang="pt">Gloob HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="pt">Disney Channel HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="pt">Nickelodeon HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="pt">Cartoon Network HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil HD">
+    <display-name lang="pt">ESPN Brasil HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ESPN+ HD">
+    <display-name lang="pt">ESPN+ HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX Sports HD">
+    <display-name lang="pt">FOX Sports HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX Sports 2 HD">
+    <display-name lang="pt">FOX Sports 2 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Band Sports HD">
+    <display-name lang="pt">Band Sports HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery HD Theater">
+    <display-name lang="pt">Discovery HD Theater</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <icon src="http://www.tvmagazine.com.br/imagens/icones/150/animalplanet2019.png" />
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="History Channel HD">
+    <display-name lang="pt">History Channel HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="pt">H2 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="NatGeo HD">
+    <display-name lang="pt">NatGeo HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="NatGeo Wild">
+    <display-name lang="pt">NatGeo Wild</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Discovery HD World">
+    <display-name lang="pt">Discovery HD World</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Home &amp; Health HD">
+    <display-name lang="pt">Home &amp; Health HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Lifetime HD">
+    <display-name lang="pt">Lifetime HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="E! HD">
+    <display-name lang="pt">E! HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="truTV HD">
+    <display-name lang="pt">truTV HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="MTV HD">
+    <display-name lang="pt">MTV HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Warner Channel HD">
+    <display-name lang="pt">Warner Channel HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Sony HD">
+    <display-name lang="pt">Sony HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TBS HD">
+    <display-name lang="pt">TBS HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="pt">Space HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="pt">Cinemax HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="pt">Comedy Central HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Universal Channel HD">
+    <display-name lang="pt">Universal Channel HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Megapix HD">
+    <display-name lang="pt">Megapix HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Canal Brasil HD">
+    <display-name lang="pt">Canal Brasil HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Investigação Discovery HD">
+    <display-name lang="pt">Investigação Discovery HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Paramount Channel HD">
+    <display-name lang="pt">Paramount Channel HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX 1 HD">
+    <display-name lang="pt">FOX 1 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX Action HD">
+    <display-name lang="pt">FOX Action HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO (HD)">
+    <display-name lang="pt">HBO (HD)</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Plus HD">
+    <display-name lang="pt">HBO Plus HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Family HD">
+    <display-name lang="pt">HBO Family HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Signature HD">
+    <display-name lang="pt">HBO Signature HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Max Up HD">
+    <display-name lang="pt">Max Up HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Max HD">
+    <display-name lang="pt">Max HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Max Prime HD">
+    <display-name lang="pt">Max Prime HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Premium HD">
+    <display-name lang="pt">Telecine Premium HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Action HD">
+    <display-name lang="pt">Telecine Action HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Touch HD">
+    <display-name lang="pt">Telecine Touch HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Fun HD">
+    <display-name lang="pt">Telecine Fun HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca HD">
+    <display-name lang="pt">Telecine Pipoca HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Telecine Cult HD">
+    <display-name lang="pt">Telecine Cult HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes HD">
+    <display-name lang="pt">Premiere Clubes HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 2 HD">
+    <display-name lang="pt">Premiere 2 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Premiere 3 HD">
+    <display-name lang="pt">Premiere 3 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Combate HD">
+    <display-name lang="pt">Combate HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Guerra e Paz</title>
+    <title lang="xx">War and Peace</title>
+    <desc lang="pt">Na batalha de Borodino, Pierre e Andrei estão na linha de frente da maior luta da Rússia contra Napoleão. Enquanto a guerra se enfurece e o temido inverno se instala, nossos heróis encontrarão a paz novamente? &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <credits>
+      <director>Robert Dornhelm</director>
+      <actor>Brenda Blethyn</actor>
+      <actor>Malcolm McDowell</actor>
+      <actor>Alessio Boni</actor>
+      <actor>Pilar Abella</actor>
+      <actor>Hary Prinz</actor>
+      <actor>Vladimir Ilyin</actor>
+      <actor>Hannelore Elsner</actor>
+      <actor>Benjamin Sadler</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Itália/França/Alemanha/Russia/Polônia</country>
+    <rating system="ES">
+      <value>Inadequado para menores de 18 anos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Contracapa</title>
+    <desc lang="pt">Uma reviravolta na disputa eleitoral aumenta as suspeitas sobre os envolvidos no esquema do vazamento das fotos. Inácio precisa encarar as consequências de seus atos e a real condição de Guimarães vêm à tona. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <credits>
+      <actor>Hélio Barbosa</actor>
+      <actor>Carolina Fauquemont</actor>
+      <actor>Tiago Luz</actor>
+      <actor>Zéca Cenovicz</actor>
+      <actor>Mauro Zanatta</actor>
+      <actor>Michelle Pucci</actor>
+      <actor>Renét Lyon</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>Brasil</country>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="ES">
+      <value>Inadequado para menores de 14 anos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Natália</title>
+    <desc lang="pt">Depois de meses sem desfilar, o convite de um estilista convence Natália a voltar às passarelas. Mas a culpa e a pressão pela descoberta do trabalho escravo em sua marca farão com que ela repense sua carreira. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>-</country>
+    <rating system="ES">
+      <value>Inadequado para menores de 16 anos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Cena Musical</title>
+    <desc lang="pt">Cena Musical é um programa de televisão brasileiro transmitido em rede nacional, que traça um painel sobre o cenário musical brasileiro. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <country>-</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">História das Canções</title>
+    <desc lang="pt">Com 40 anos de carreira, Amado Batista tem origem humilde, mas se tornou ídolo romântico e conquistou uma legião de fãs. Suas canções fazem parte do imaginário popular de homens e mulheres de todo o país. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+    <country>-</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Telecurso Ensino Fundamental</title>
+    <desc lang="pt">A importância que tiveram para a humanidade os viajantes árabes e mouros. A riqueza das civilizações do Oriente. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Educativo</category>
+    <country>-</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Telecurso Ensino Médio (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Telecurso Profissionalizante (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Telecurso Profissionalizante (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Faróis do Brasil (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Terra Sul (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Toca Viola (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Sou 60 (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Chapéuzinho de Todas as Cores (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Chapéuzinho de Todas as Cores (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Bia Desenha (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Bia Desenha (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">MYTIKAH - O Livro dos Heróis (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">MYTIKAH - O Livro dos Heróis (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Fábulas Tortas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Fábulas Tortas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Os Dinâmicos (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Os Dinâmicos (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Os Dinâmicos (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">A Bicicleta do Vovô (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">A Bicicleta do Vovô (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Repórter Visual (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Brasil em Dia (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Sésamo (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">A Turma do Pererê (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">MYTIKAH - O Livro dos Heróis (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">O Diário de Mika (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Chapéuzinho de Todas as Cores (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Bia Desenha (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">O Show da Luna! (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E14</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Fábulas Tortas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Godofredo (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Osmar, a Primeira Fatia do Pão de Forma (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Os Cupins (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Carrapatos e Catapultas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Ciência para Crianças (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Cozinhadinho (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">O Teco Teco (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Ernesto, o Exterminador de Seres Monstruosos (e Outras Porcarias) (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Detetives do Prédio Azul (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S6 E15</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Detetives do Prédio Azul (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S6 E16</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Fábulas Tortas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">MYTIKAH - O Livro dos Heróis (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">SOS Fada Manu</title>
+    <title lang="xx">SOS Fada Manu</title>
+    <desc lang="pt">Manu é enganada por um duende, que sequestra seu pai. Ela faz de tudo para convencer o duende a devolver Alfredo. No meio da confusão, Manu acaba solucionando um antigo mistério. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <credits>
+      <director>Jean Mary De Moura</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Brasil</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Música Animada</title>
+    <desc lang="pt">Uma divertida apresentação musical para animar o dia da criançada. Afinal, a música é para todas as idades! &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+    <country>-</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">O Show da Luna!</title>
+    <desc lang="pt">Esta série para crianças em idade pré-escolar é sobre ciência e o processo de questionamento científico. Luna percebe coisas à sua volta e questiona como o mundo funciona. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>-</country>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Leonardo 3D</title>
+    <desc lang="pt">Os jovens tentam decifrar uma frase ininteligível no pergaminho. Outra visita à biblioteca do antigo mosteiro os leva a encontrar um livro com páginas em branco. Mas isso não é tudo: vem mais mistério por aí. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>-</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Os Dinâmicos (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Os Dinâmicos (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">A Turma do Pererê (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Porto Papel (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Osmar, a Primeira Fatia do Pão de Forma (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Zica e os Camaleões (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Música Animada (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Detetives do Prédio Azul (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S6 E17</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Detetives do Prédio Azul (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S6 E18</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Pablo (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Sem Censura (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Cenário Econômico (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Gaby Estrella (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Gaby Estrella (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">A Velha História do Meu Melhor Amigo (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Cozinhadinho (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Repórter Brasil Noite (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Stadium (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Fique Ligado (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Grandes Musicais (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Todas as Bossas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Guerra e Paz (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Contracapa (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Natália (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Cena Musical (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">História das Canções (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Telecurso Ensino Fundamental</title>
+    <desc lang="pt">A importância que tiveram para a humanidade os viajantes árabes e mouros. A riqueza das civilizações do Oriente. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Educativo</category>
+    <country>-</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Telecurso Ensino Médio</title>
+    <desc lang="pt">As diferenças entre os quatro tipos de extintor. O melhor extintor para cada classe de incêndio e a prevenção de incêndios. As características do fogo, principais causas, tipos de incêndio e diferentes extintores. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+    <country>-</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Telecurso Profissionalizante (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Telecurso Profissionalizante (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Faróis do Brasil (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Terra Sul (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Toca Viola (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Sou 60 (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Chapéuzinho de Todas as Cores (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Chapéuzinho de Todas as Cores (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Bia Desenha (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Bia Desenha (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">MYTIKAH - O Livro dos Heróis (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">MYTIKAH - O Livro dos Heróis (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Fábulas Tortas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Fábulas Tortas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Os Dinâmicos (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Os Dinâmicos (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Os Dinâmicos (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">A Bicicleta do Vovô (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">A Bicicleta do Vovô (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Repórter Visual (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Brasil em Dia (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Sésamo (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">A Turma do Pererê (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">MYTIKAH - O Livro dos Heróis (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">O Diário de Mika (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Chapéuzinho de Todas as Cores</title>
+    <desc lang="pt">De chapéu branco na cabeça, Chapeuzinho vai jogar bola no quintal. Mas no meio da diversão ela se lembra que a escola começará em poucos dias e isso desperta a sombra do lobo nela. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <credits>
+      <director>Camila Kauling e Paolo Conti</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Brasil</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Bia Desenha</title>
+    <desc lang="pt">A estação de jambos pinta de rosa o chão do quintal onde os meninos moram. E um passeio pelas cores e figuras imaginadas pelas crianças surge assim que eles chegam da escola. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>-</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">O Show da Luna!</title>
+    <desc lang="pt">Esta série para crianças em idade pré-escolar é sobre ciência e o processo de questionamento científico. Luna percebe coisas à sua volta e questiona como o mundo funciona. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>-</country>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Fábulas Tortas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Godofredo (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Osmar, a Primeira Fatia do Pão de Forma (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Os Cupins (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Carrapatos e Catapultas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Ciência para Crianças (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Cozinhadinho (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">O Teco Teco (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Ernesto, o Exterminador de Seres Monstruosos (e Outras Porcarias) (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Detetives do Prédio Azul (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S6 E15</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Detetives do Prédio Azul (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S6 E16</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Fábulas Tortas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">MYTIKAH - O Livro dos Heróis (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">SOS Fada Manu (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Música Animada (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">O Show da Luna! (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E14</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Leonardo 3D (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Os Dinâmicos (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Os Dinâmicos (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">A Turma do Pererê (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Porto Papel (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Osmar, a Primeira Fatia do Pão de Forma (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Zica e os Camaleões (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Música Animada (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Detetives do Prédio Azul (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S6 E17</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Detetives do Prédio Azul (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S6 E18</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Pablo</title>
+    <desc lang="pt">Pablo está lutando para entender sua mãe. Sua voz soa desconexa e truncada. Draff acha que soa como Sopa de Letrinhas, uma criatura muito desobediente que embaralha palavras. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <credits>
+      <director>David Mc Grath</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Reino Unido</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Sem Censura</title>
+    <desc lang="pt">Vera Barroso recebe artistas e especialistas em diversas áreas para um bate-papo sobre qualidade de vida, informação cultural e prestação de serviços. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+    <country>Brasil -</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Cenário Econômico (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Gaby Estrella (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Gaby Estrella (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">A Velha História do Meu Melhor Amigo (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Cozinhadinho (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Repórter Brasil Noite (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Stadium (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Fique Ligado (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Grandes Musicais (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Brasil">
+    <title lang="pt">Todas as Bossas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Câmara Ligada (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Talentos Brasil (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Reapresentação de Comissão (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Câmara Debate (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">STJ Cidadão</title>
+    <desc lang="pt">As decisões que movimentam o Superior Tribunal de Justiça mexem também com a vida de milhares de brasileiros. É isso o que você vê no STJ Cidadão. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Câmara Informa</title>
+    <desc lang="pt">Reportagens sobre temas diversos. Reveja o interprograma no endereço: www.tv.camara.gov.br &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil -</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Palavra Aberta</title>
+    <desc lang="pt">Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço: www.tv.camara.gov.br &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+    <country>Brasil -</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Palavra Aberta</title>
+    <desc lang="pt">Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço: www.tv.camara.gov.br &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+    <country>Brasil -</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Câmara Debate (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Interprogramas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Câmara Hoje - Ao Vivo (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Sessão Plenária - Ao Vivo (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Palavra Aberta (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Palavra Aberta (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Reapresentação de Comissão (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Expressão Nacional (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Revista da Câmara (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Câmara Debate (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Fatos e Opiniões (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Documentário TV Câmara (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Documentário TV Câmara (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Documentário TV Câmara (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Palavra Aberta (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Palavra Aberta (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Câmara Debate (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Revista da Câmara (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Câmara Ligada (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Talentos Brasil (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Reapresentação de Comissão</title>
+    <desc lang="pt">Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade. www.tv.camara.gov.br &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Política</category>
+    <country>-</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Câmara Debate</title>
+    <title lang="xx">Câmara Debate</title>
+    <desc lang="pt">Durante meia hora, dois deputados, preferencialmente com pontos de vista distintos, discutem os grandes temas que movimentam os trabalhos no Legislativo. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Política</category>
+    <country>-</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">STJ Cidadão (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Câmara Informa (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Palavra Aberta (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Palavra Aberta (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Câmara Debate (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Interprogramas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Câmara Hoje - Ao Vivo (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Sessão Plenária - Ao Vivo (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Palavra Aberta (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Palavra Aberta (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Reapresentação de Comissão (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Expressão Nacional (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Revista da Câmara (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Câmara Debate (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Fatos e Opiniões (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Documentário TV Câmara (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Documentário TV Câmara (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Documentário TV Câmara (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Palavra Aberta (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Palavra Aberta (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Câmara Debate (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="TV Câmara">
+    <title lang="pt">Revista da Câmara (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">SOS VET</title>
+    <title lang="xx">Vet Gone Wild</title>
+    <desc lang="pt">O Dr. Chris Brown salva lobos-marinhos que ficaram presos em redes de pesca no litoral australiano. Depois viaja para Fiji para marcar tubarões-cabeça-chata que apareceram num rio e trata um porco que foi atacado por cães. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <credits>
+      <actor>Chris Brown</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <title lang="xx">Untitled Irwin Family Project</title>
+    <desc lang="pt">Robert viaja para a Grande Barreira de Coral da Austrália para ajudar nas pesquisas sobre as raias-jamanta. O hospital veterinário e a equipe de resgate se voluntariam para salvar um fiilhote de wallaby. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <title lang="xx">Untitled Irwin Family Project</title>
+    <desc lang="pt">Terri participa do exame do tigre Charlie para ver se os tumores foram tratados com sucesso. Bindi e a Equipe de Pequenos Mamíferos ajudam a desenvolver uma vacina para Eden, o diabo-da-tasmânia. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Aventura Selvagem</title>
+    <title lang="xx">Aventura Selvagem</title>
+    <desc lang="pt">Richard visita um viveiro com mais de 40 cascavéis, criadas para a extração do veneno e produção do soro antiofídico. Durante a expedição, acontece um verdadeiro reality show: a adoção de um cachorro vira-lata. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <credits>
+      <director>Richard Rasmussen</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country>Brasil</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Perdido na Califórnia</title>
+    <title lang="xx">Wild Frank In California</title>
+    <desc lang="pt">Frank passa a noite no meio da floresta, numa barraca. Quando acorda, decide sair para explorar e acaba encontrando um urso enorme. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+    <country>-</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Vida Selvagem com Evan</title>
+    <title lang="xx">Evan Goes Wild</title>
+    <desc lang="pt">Repleta de animais selvagens, a ilha de Palawan é um dos destinos favoritos de Evan. Durante essa viagem às Filipinas, ele resgata ursos-gatos órfãos, encontra pítons e crocodilos, e luta contra um lagarto-monitor-aquático. &lt;!-- 191.209.4.226 - Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 --&gt;(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ecologia</category>
+    <country>EUA</country>
+    <rating system="ES">
+      <value>Livre para todos os públicos</value>
+    </rating>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Patrulha de Bornéu (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pântano Perigoso (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">S.O.S. Castores (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Um Lar para Pets (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Um Lar para Pets (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Um Lar para Pets (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinários do Texas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinários do Texas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E9</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinários do Texas (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Aventura Selvagem (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Aventura Selvagem (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Aventura Selvagem (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Dodo Heroes (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">África Selvagem (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">África (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Aprendiz Animal (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Selvagem (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Selvagem (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+  </programme>
+  <programme start="20190510000000 -0300" stop="20190510000000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal (?)</title>
+    <title lang="xx">A TV Magazine detectou uma irregularidade no seu acesso. Por favor, siga as instruções abaixo.</title>
+    <episode-num system="onscreen">S13 E10</episode-num>
+  </programme>
+</tv>
