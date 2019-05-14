@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvevangelizar.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Agro Canal">
+    <display-name lang="pt">Agro Canal</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvfuturo.gif|http://www.lineup.tv.br/canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AgroBrasil TV">
+    <display-name lang="pt">AgroBrasil TV</display-name>
+    <icon src="http://www.lineup.tv.br/canais/globo-sp.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AlJazeera">
+    <display-name lang="pt">AlJazeera</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvsonora.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AmazonSat">
+    <display-name lang="pt">AmazonSat</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvserrageral.gif|http://www.lineup.tv.br/canais/redesuper.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvserraazulpaulista.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <icon src="http://www.lineup.tv.br/canais/cancaonova-aracaju.gif|http://www.lineup.tv.br/canais/cancaonova.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <icon src="http://www.lineup.tv.br/canais/cheftv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvdistrital-df.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BabyTV">
+    <display-name lang="pt">BabyTV</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvrio.gif|http://www.lineup.tv.br/canais/laredtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Bah!">
+    <display-name lang="pt">Bah!</display-name>
+    <icon src="http://www.lineup.tv.br/canais/latele-ecuador.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcerrado-balsas.gif|http://www.lineup.tv.br/canais/redemeionorte.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
